@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9E076463-96ED-E7BD-1B7A-89B0EF4FF487}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/loockAtCanvas.cs">
+    <Files>
+      <File FileName="Assets/scrips/ia/IaComensal.cs" Line="36" Column="3" />
+      <File FileName="Assets/scrips/ia/FoodSelector.cs" Line="8" Column="26" />
+      <File FileName="Assets/scrips/FoodController.cs" Line="35" Column="14" />
+      <File FileName="Assets/scrips/ia/SpawnComensal.cs" Line="23" Column="95" />
+      <File FileName="Assets/scrips/Player/PlayerController.cs" Line="60" Column="9" />
+      <File FileName="Assets/scrips/Player/PlatoController.cs" Line="8" Column="4" />
+      <File FileName="Assets/scrips/FoodValidator.cs" Line="133" Column="22" />
+      <File FileName="Assets/scrips/GameManager.cs" Line="19" Column="27" />
+      <File FileName="Assets/loockAtCanvas.cs" Line="14" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Jam PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
