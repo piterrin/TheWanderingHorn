@@ -1,10 +1,24 @@
 fileFormatVersion: 2
 guid: 7f8b786bc69d6409ebfe0e520ffdefd9
-timeCreated: 1528484240
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cubo
+    100004: //RootNode
+    400000: Cube
+    400002: Cubo
+    400004: //RootNode
+    2100000: None__Sin_nombre_003
+    2100002: Material__Sin_nombre_002
+    2300000: Cube
+    2300002: Cubo
+    3300000: Cube
+    3300002: Cubo
+    4300000: Cubo
+    4300002: Cube
+    7400000: Default Take
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -24,6 +38,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5

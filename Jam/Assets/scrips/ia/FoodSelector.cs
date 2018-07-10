@@ -11,31 +11,7 @@ public class FoodSelector : MonoBehaviour
     public Image seleccion, polloImg, carneImg, cervezaImg;
 
     // Use this for initialization
-     void Start()
-    {
-
-        //esto me muestra un random de que elije el comensal
-
-        requestFood = Random.Range(1, 4);
-        seleccion.enabled = false;
-        switch (requestFood)
-        {
-            case 1:
-                comida = "pollo";
-                imageController = 1;
-                break;
-            case 2:
-                comida = "carne";
-                imageController = 2;
-                break;
-            case 3:
-                comida = "cerveza";
-                imageController = 3;
-                break;
-
-        }
-
-    }
+    
 
     // Update is called once per frame
     void Update()

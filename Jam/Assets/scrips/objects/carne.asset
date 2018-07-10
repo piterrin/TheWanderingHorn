@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bba9056016807543b1ba98a990135f4, type: 3}
+  m_Name: carne
+  m_EditorClassIdentifier: 
+  food: 2
+  price: 100
+  foodImage: {fileID: 21300000, guid: 8e145780021f74ae9bd3961fd0f9c1d2, type: 3}
